@@ -12,3 +12,11 @@ simple name logger for me to remember cli apps that i thought ppl would like
 ```
   sudo mv dist/memorify /usr/local/bin/
 ```
+
+## usage:
+```
+memorify                  -  show list
+memorify add <name>       -  add item to list
+memorify delete <num>     -  delete item from list
+memorify --help           -  show similar list
+```
